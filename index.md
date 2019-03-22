@@ -2,7 +2,7 @@ VFX Graph<br/>+ RealSense<br/>= Fun
 
 ---
 
-Demonstration
+https://github.com/Unity-Technologies/VisualEffectGraph-Samples
 
 ---
 
@@ -12,6 +12,10 @@ Demonstration
 ---
 
 VFX Graph とは
+
+---
+
+Visual Effect Graph
 
 ---
 
