@@ -1,3 +1,5 @@
+VFX Graph<br/>+ RealSense<br/>= Fun
+
 ---
 
 Demonstration
@@ -57,10 +59,36 @@ RealSense との<br/>繋ぎ込み
 
 ---
 
+https://github.com/keijiro/Rsvfx
+
+---
+
 &nbsp;
 
 ---
 
 Volumetric Filmmaking
+
+---
+
+[Depthkit](https://www.depthkit.tv/)
+
+---
+
+&nbsp;
+
+---
+
+まとめ
+
+---
+
+- VFX Graph = パーティクル
+- Attribute Map で繋ぎ込み
+- Volumetric Video 面白い
+
+---
+
+&nbsp;
 
 ---
