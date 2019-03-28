@@ -2,7 +2,15 @@ VFX Graph<br/>+ RealSense<br/>= Fun
 
 ---
 
+&nbsp;
+
+---
+
 https://github.com/Unity-Technologies/VisualEffectGraph-Samples
+
+---
+
+&nbsp;
 
 ---
 
@@ -71,7 +79,7 @@ https://github.com/keijiro/Rsvfx
 
 ---
 
-Volumetric Filmmaking
+Volumetric Video
 
 ---
 
